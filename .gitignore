@@ -1,4 +1,6 @@
 .bundle/
+data/
+britlit_*.csv
 *.bak
 *.log
 *~
